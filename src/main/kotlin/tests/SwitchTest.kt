@@ -1,5 +1,5 @@
 package tests
 
 fun main() {
-    MagnusSwitch.switchTest();
+    MagnusSwitch.switchTest()
 }
